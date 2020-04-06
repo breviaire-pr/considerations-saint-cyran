@@ -1,10 +1,11 @@
-gris:
-hiver
-
+hiver temps:
 81-82 manquant
 97-98 en double
-p 177 (i 190)
-p 337 http://localhost:8000/pngs/hiver/hiver-350.png
-p 441 http://localhost:8000/pngs/hiver/hiver-454.png
-p 443 http://localhost:8000/pngs/hiver/hiver-456.png
-p 511 http://localhost:8000/pngs/hiver/hiver-524.png
+
+& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pngmono -r220 -sOutputFile='pngs\FOLDER\FOLDER-%00d.png'
+
+& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pnggray -r300 -sOutputFile='pngs\hiver\hiver-524.png' -dFirstPage=524 -dLastPage=524 .\pdfs\considerations_hiver.pdf
+
+optipng.exe *.png
+
+Get-ChildItem -Path . -Filter *.png -Recurse | Foreach { optipng.exe $_.fullname }
