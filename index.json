@@ -1,23 +1,25 @@
 {
-    "default": "hiver",
+    "default": "hiver_temps",
 
     "books": [
-        ["hiver", "Hiver"],
-        ["ete", "Été"]
+        ["hiver_temps", "[Hiver] Dimanches et Festes de l’Année"],
+        ["hiver_saints", "[Hiver] Festes de la Vierge et des Saints"],
+        ["ete_temps", "[Été] Dimanches et Festes de l’Année"],
+        ["ete_saints", "[Été] Festes de la Vierge et des Saints"]
     ],
 
     "folders": {
         
         "hiver":
-        ["L’Office de l’Église En latin & en françois. Contenant l’Office de la Vierge.",
-            "Paris, Vve Camusat & P. Le Petit", 1653,
-            "Office_de_l_Eglise_1653.pdf", {           
+        ["Considérations sur les Dimanches et les Festes des Mysteres, et sur les Festes de la Vierge et des Saints. Partie d’Hyver.",
+            "par Jean Duvergier de Hauranne, abbé de Saint-Cyran, À Paris chez la Veuve Charles Savreux", 1671,
+            "considerations_hiver.pdf", {           
         }],
 
         "ete":
-        ["L’Office de l’Église en français et en latin, contenant l’Office de la Vierge",
-            "Paris, De Hansy", 1777,
-            "Office_de_l_́Eglise_1777.pdf", {
+        ["Considérations sur les Dimanches et les Festes des Mysteres, et sur les Festes de la Vierge et des Saints. Partie d’Esté.",
+            "par Jean Duvergier de Hauranne, abbé de Saint-Cyran, À Paris chez la Veuve Charles Savreux", 1671,
+            "considerations_ete.pdf", {
             
         }]
 

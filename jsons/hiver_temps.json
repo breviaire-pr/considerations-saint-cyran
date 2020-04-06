@@ -1,0 +1,17 @@
+{
+    "folder": "hiver",
+    "offset": 13,
+    "min": -7,
+    "max": 516,
+    "chapters": [
+        ["titre", -7],
+        ["avis", -5],
+        ["privilege", -1],
+        ["approbation", 0],
+        ["I. Dimanche de l’Avent", 1],
+        ["II. Dimanche de l’Avent", 13],
+        ["III. Dimanche de l’Avent", 22],
+
+        ["Samedy Saint", 514]
+    ]
+}
