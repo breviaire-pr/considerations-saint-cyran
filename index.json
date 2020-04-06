@@ -3,8 +3,8 @@
 
     "books": [
         ["hiver_temps", "[Hiver] Dimanches et Festes de l’Année"],
-        ["hiver_saints", "[Hiver] Festes de la Vierge et des Saints"],
         ["ete_temps", "[Été] Dimanches et Festes de l’Année"],
+        ["hiver_saints", "[Hiver] Festes de la Vierge et des Saints"],
         ["ete_saints", "[Été] Festes de la Vierge et des Saints"]
     ],
 
