@@ -4,7 +4,7 @@ hiver temps:
 
 & 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pngmono -r220 -sOutputFile='pngs\FOLDER\FOLDER-%00d.png'
 
-& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pnggray -r300 -sOutputFile='pngs\hiver\hiver-692.png' -dFirstPage=692 -dLastPage=692 .\pdfs\considerations_hiver.pdf
+& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pnggray -r300 -sOutputFile='pngs\ete\ete-6.png' -dFirstPage=6 -dLastPage=6 .\pdfs\considerations_ete.pdf
 
 optipng.exe *.png
 
