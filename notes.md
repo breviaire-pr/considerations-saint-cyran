@@ -9,3 +9,5 @@ hiver temps:
 optipng.exe *.png
 
 Get-ChildItem -Path . -Filter *.png -Recurse | Foreach { optipng.exe $_.fullname }
+
+Get-ChildItem -Path . -Filter hiver-*.png | Foreach { ..\..\autotrim.ps1 $_.name }

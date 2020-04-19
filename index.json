@@ -16,7 +16,20 @@
             "considerations_hiver.pdf", {           
         }],
 
+        "trimmed-hiver":
+        ["Considérations sur les Dimanches et les Festes des Mysteres, et sur les Festes de la Vierge et des Saints. Partie d’Hyver.",
+            "par Jean Duvergier de Hauranne, abbé de Saint-Cyran, À Paris chez la Veuve Charles Savreux", 1671,
+            "considerations_hiver.pdf", {           
+        }],
+
         "ete":
+        ["Considérations sur les Dimanches et les Festes des Mysteres, et sur les Festes de la Vierge et des Saints. Partie d’Esté.",
+            "par Jean Duvergier de Hauranne, abbé de Saint-Cyran, À Paris chez la Veuve Charles Savreux", 1671,
+            "considerations_ete.pdf", {
+            
+        }],
+
+        "trimmed-ete":
         ["Considérations sur les Dimanches et les Festes des Mysteres, et sur les Festes de la Vierge et des Saints. Partie d’Esté.",
             "par Jean Duvergier de Hauranne, abbé de Saint-Cyran, À Paris chez la Veuve Charles Savreux", 1671,
             "considerations_ete.pdf", {
