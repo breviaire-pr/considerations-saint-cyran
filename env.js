@@ -47,8 +47,8 @@ const UI_ENV = {
     sites,
     links: [
         {
-            title: 'rapporter une erreur',
-            url: 'https://github.com/breviaire-pr/considerations-saint-cyran/issues'
+            title: 'Remarque, erreur ? contact@sacy.be',
+            url: 'mailto:contact@sacy.be'
         },
         {
             title: 'code source du site web',
