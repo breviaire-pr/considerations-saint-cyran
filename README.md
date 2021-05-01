@@ -1,4 +1,4 @@
-# [Saint-Cyran, Considérations sur les Dimanches et les Fêtes des Mystères, et sur les fêtes de la Vierge et des Saints.](https://considerations.sacy.be/)
+# [Considérations sur les Dimanches et les Fêtes des Mystères, et sur les fêtes de la Vierge et des Saints, par l’Abbé de Saint-Cyran.](https://considerations.sacy.be/)
 
 ## Conditions d’utilisation
 
